@@ -1,0 +1,1 @@
+print("Saya berusia {0}, dan menyukai film {1}".format(20, "Kartun"))
